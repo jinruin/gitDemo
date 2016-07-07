@@ -1,2 +1,19 @@
 file 2;
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 file 2;file 2;file 2;file 2;
+=======
+<<<<<<< HEAD
+file 2;
+file 2;
+file 2;
+file 2;
+=======
+ddddddd
+>>>>>>> 51ff74a69a5263642f7079c492fdd0b90a07a736
+>>>>>>> adf0b0b76ebe7b85728fbebe177067f8866e53f5
+=======
+>>>>>>> parent of 5e5dfd3... change f2
+=======
+>>>>>>> parent of 5e5dfd3... change f2
