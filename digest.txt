@@ -2,7 +2,8 @@ Working Directory
 版本库（Repository）
 	Stage|index 暂存区
 	master
-slash
+	branch
+stash
 
 
 add 做什么?
@@ -15,4 +16,8 @@ when will you know ?
 分支管理
 回退
 
+
 Master Bug Fixed
+
+slashTest
+
