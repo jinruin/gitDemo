@@ -1,5 +1,13 @@
 仓库
 Stage
+slash
 
 add 做什么?
 I dont know now.
+
+when will you know ?
+
+
+冲突处理
+分支管理
+回退
